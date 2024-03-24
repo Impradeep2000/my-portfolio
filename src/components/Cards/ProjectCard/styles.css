@@ -1,0 +1,48 @@
+.card-project{
+    width: 20rem;
+    height: 25rem;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.card-project img{
+    width:20rem;
+    height: 15rem;
+    border-radius: 0.8rem;
+}
+
+.eye{
+    position: absolute;
+    height: 3rem;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 50%;
+    top: 28%;
+    width: 8rem;
+    background-color:transparent;
+}
+
+.eye div{
+    height: 3rem;
+    width: 3rem;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.eyee{
+    color: white;
+    height: 1.5rem;
+    width: 1.5rem;
+    left: 20% !important;
+}

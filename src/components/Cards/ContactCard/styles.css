@@ -1,0 +1,17 @@
+.contact-card{
+    display: flex;
+    align-items: center;
+    width: 20rem;
+    height: 4rem;
+    border: 1px solid black;
+}
+
+.icn{
+    width: 2rem;
+    border-right: 2px solid black;
+    padding-right: 1rem;
+}
+.nam{
+    width: 12.5rem;
+    padding-left: 1rem;
+}

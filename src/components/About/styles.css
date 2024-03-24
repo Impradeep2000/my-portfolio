@@ -1,0 +1,15 @@
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    min-height: 80vh;
+    gap: 2rem;
+}
+
+.cards{
+    width:60vw;
+    display: inherit;
+    justify-content: space-between;
+}

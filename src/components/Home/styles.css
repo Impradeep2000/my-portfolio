@@ -1,0 +1,38 @@
+.home{
+    display: flex;
+    flex-direction: row;
+    padding: 1rem 4rem;
+    /* border: 1px solid black; */
+    height: auto;
+    width: auto;
+    margin-top: 2rem;
+}
+
+.home section{
+    width: 50vw;
+}
+
+.name{
+    padding: 0;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 0rem;
+}
+
+.gap{
+    margin-top: -1rem;
+}
+
+.intro{
+    padding-top: 4rem;
+    display: inherit;
+    flex-direction: column;
+    gap: 1rem;
+    font-weight: 600;
+    font-size: large;
+    border-left: 2px solid black;
+    padding: 3rem 2rem;
+}

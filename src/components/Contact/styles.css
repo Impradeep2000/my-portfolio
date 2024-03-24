@@ -1,0 +1,17 @@
+.contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    min-height: 80vh;
+}
+.icon{
+    height: 2rem;
+    width: 2rem;
+}
+.card-contact{
+    display: flex;
+    gap: 2rem;
+    width: 70vw;
+}
